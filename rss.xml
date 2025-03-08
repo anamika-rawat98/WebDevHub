@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Web Development Hub</title>
+    <link>http://www.example.com</link>
+    <description>This is the RSS feed for My Awesome Web Hub</description>
+    <language>en-us</language>
+
+    <item>
+      <title>W3Schools</title>
+      <link>https://www.w3schools.com/html/default.asp</link>
+      <description>This is w3schools website that comes with lots of things to learn.</description>
+    </item>
+
+    <item>
+      <title>Geeks For Geeks</title>
+      <link>https://www.geeksforgeeks.org/web-development/?ref=home-articlecards</link>
+      <description>This is Geeks For Geeks website.</description>
+    </item>
+
+    <item>
+      <title>MDN Web Docs</title>
+      <link>https://developer.mozilla.org/en-US/docs/Web</link>
+      <description>This is MDN Web Docs website web content.</description>
+    </item>
+
+    <item>
+      <title>Web Dev Simplified</title>
+      <link>https://blog.webdevsimplified.com/</link>
+      <description>This is Web Dev Simplified website web content.</description>
+    </item>
+
+    <item>
+      <title>Web Dev</title>
+      <link>https://web.dev/learn</link>
+      <description>This is Web Dev Simplified website web content.</description>
+    </item>
+
+    <item>
+      <title>React</title>
+      <link>https://react.dev/learn</link>
+      <description>This is a react website</description>
+    </item>
+
+    <item>
+      <title>HTML</title>
+      <link>https://html.com/</link>
+      <description>This is a HTML Website</description>
+    </item>
+  </channel>
+</rss>
