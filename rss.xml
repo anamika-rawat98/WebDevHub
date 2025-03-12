@@ -1,1192 +1,501 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-  <channel>
-    <item>
-      <title>W3Schools</title>
-      <link>https://www.w3schools.com/html/default.asp</link>
-      <description>Your go-to resource for web development tutorials and references.</description>
-    </item>
-
-    <item>
-      <title>Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/web-development/?ref=home-articlecards</link>
-      <description>Comprehensive platform for learning web development concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web</link>
-      <description>Official documentation for web development technologies by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs</link>
-      <description>Collection of code docs for popular programming languages and frameworks</description>
-    </item>
-
-    <item>
-      <title>Web Dev Simplified</title>
-      <link>https://blog.webdevsimplified.com/</link>
-      <description>A blog focused on making web development easier and more accessible.</description>
-    </item>
-
-    <item>
-      <title>Web Dev</title>
-      <link>https://web.dev/learn</link>
-      <description>Learn modern web development with easy-to-follow tutorials and best practices.</description>
-    </item>
-
-    <item>
-      <title>React</title>
-      <link>https://react.dev/learn</link>
-      <description>Official documentation and guides for learning React.</description>
-    </item>
-
-    <item>
-      <title>HTML - W3Schools</title>
-      <link>https://www.w3schools.com/html/default.asp</link>
-      <description>Your go-to resource for HTML tutorials and references.</description>
-    </item>
-
-    <item>
-      <title>CSS - W3Schools</title>
-      <link>https://www.w3schools.com/css/default.asp</link>
-      <description>Your go-to resource for CSS tutorials and references.</description>
-    </item>
-
-    <item>
-      <title>Javascript - W3Schools</title>
-      <link>https://www.w3schools.com/js/default.asp</link>
-      <description>Your go-to resource for Javascript tutorials and references.</description>
-    </item>
-
-    <item>
-      <title>JAVA - W3Schools</title>
-      <link>https://www.w3schools.com/java/default.asp</link>
-      <description>Your go-to resource for Java tutorials and references.</description>
-    </item>
-
-    <item>
-      <title>React - W3Schools</title>
-      <link>https://www.w3schools.com/react/default.asp</link>
-      <description>Your go-to resource for React tutorials and references.</description>
-    </item>
-
-    <item>
-      <title>HTML - Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/html-tutorial/?ref=outind</link>
-      <description>Comprehensive platform for learning HTML concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>CSS - Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/css-tutorial/?ref=header_outind</link>
-      <description>Comprehensive platform for learning CSS concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>Javascript - Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/javascript/?ref=header_outind</link>
-      <description>Comprehensive platform for learning Javascript concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>Typescript - Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/typescript/?ref=header_outind</link>
-      <description>Comprehensive platform for learning Typescript concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>React - Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/reactjs-introduction/?ref=header_outind</link>
-      <description>Comprehensive platform for learning React concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>Java - Geeks For Geeks</title>
-      <link>https://www.geeksforgeeks.org/java-programming-basics/?ref=header_outind</link>
-      <description>Comprehensive platform for learning Java concepts and practices.</description>
-    </item>
-
-    <item>
-      <title>HTML - MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web/HTML</link>
-      <description>Official documentation for HTML by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>CSS - MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web/CSS</link>
-      <description>Official documentation for CSS by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>Javascript - MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript</link>
-      <description>Official documentation for Javascript by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>Web API - MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web/API</link>
-      <description>Official documentation for Web API Interfaces by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>HTTP - MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web/HTTP</link>
-      <description>Official documentation for HTTP Protocol by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>Accessibility - MDN Web Docs</title>
-      <link>https://developer.mozilla.org/en-US/docs/Web/Accessibility</link>
-      <description>Official documentation for Accessibility features by Mozilla.</description>
-    </item>
-
-    <item>
-      <title>HTML - Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs/html</link>
-      <description>HTML documentation in Code Academy.</description>
-    </item>
-
-    <item>
-      <title>CSS - Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs/css</link>
-      <description>CSS documentation in Code Academy.</description>
-    </item>
-
-    <item>
-      <title>Javascript - Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs/javascript</link>
-      <description>Javascript documentation in Code Academy.</description>
-    </item>
-
-    <item>
-      <title>Java - Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs/java</link>
-      <description>Java documentation in Code Academy.</description>
-    </item>
-
-    <item>
-      <title>React - Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs/react</link>
-      <description>React documentation in Code Academy.</description>
-    </item>
-
-    <item>
-      <title>Git - Code Academy</title>
-      <link>https://www.codecademy.com/resources/docs/git</link>
-      <description>Git documentation in Code Academy.</description>
-    </item>
-
-    <item>
-      <title>HTML - Web Dev</title>
-      <link>https://web.dev/html</link>
-      <description>Learn modern HTML with easy-to-follow tutorials and best practices.</description>
-    </item>
-
-    <item>
-      <title>CSS - Web Dev</title>
-      <link>https://web.dev/css</link>
-      <description>Learn modern CSS with easy-to-follow tutorials and best practices.</description>
-    </item>
-
-    <item>
-      <title>Javascript - Web Dev</title>
-      <link>https://web.dev/javascript</link>
-      <description>Learn modern Javascript with easy-to-follow tutorials and best practices.</description>
-    </item>
-
-<item>
-<title>How To Effectively Test For Colorblind Accessibility</title>
-<link>https://blog.webdevsimplified.com/2019-09/colorblind-accessibility-testing/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2019-09/colorblind-accessibility-testing/</guid>
-<description>A quick tip on how to easily test any site for colorblind accessibility.</description>
-<pubDate>Mon, 23 Sep 2019 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Use ES6 Modules With Node.js</title>
-<link>https://blog.webdevsimplified.com/2019-09/es6-modules-in-nodejs/</link>
-<description>Two simple ways to use ES6 modules with Node.js.</description>
-</item>
-
-<item>
-<title>Why You Shouldn't Use Class Selectors In JavaScript</title>
-<link>https://blog.webdevsimplified.com/2019-10/do-not-use-class-selectors-in-javascript/</link>
-<description>A breakdown of why the common practice of using class selectors in JavaScript makes code impossible to refactor, and what you should do instead.</description>
-</item>
-
-<item>
-<title>Why You Should Review Your Own Code And How To Review It Effectively</title>
-<link>https://blog.webdevsimplified.com/2019-10/how-to-code-review-effectively/</link>
-<description>A detailed description of the steps needed to deliver an effective code review, even if it is just for your own code.</description>
-</item>
-
-<item>
-<title>Why You Should Use Data Attributes In CSS</title>
-<link>https://blog.webdevsimplified.com/2019-10/use-data-attributes-in-css/</link>
-<description>A quick breakdown of exactly how to use data attributes with CSS to create dynamic content.</description>
-</item>
-
-<item>
-<title>What Is Short Circuiting?</title>
-<link>https://blog.webdevsimplified.com/2019-10/what-is-short-circuiting/</link>
-<description>A detailed breakdown of what short circuiting is, how it works, and why it is important.</description>
-</item>
-
-<item>
-<title>How To Learn Any Topic Fast</title>
-<link>https://blog.webdevsimplified.com/2019-11/how-to-learn-any-topic-fast/</link>
-<description>A simple step by step guide on how to learn any new technology or topic quickly and efficiently.</description>
-</item>
-
-<item>
-<title>The Power Of Custom Hooks</title>
-<link>https://blog.webdevsimplified.com/2019-11/how-to-write-custom-hooks/</link>
-<description>A quick explanation of how to write custom hooks and why they are so useful.</description>
-</item>
-
-<item>
-<title>Why You Should Never Store Derived State</title>
-<link>https://blog.webdevsimplified.com/2019-11/never-store-derived-state/</link>
-<description>The quickest way to have corrupt out of sync state is by storing derived state.</description>
-</item>
-
-<item>
-<title>How Physical Activity Will Make You A Better Developer</title>
-<link>https://blog.webdevsimplified.com/2019-11/the-importance-of-fitness/</link>
-<description>A brief explanation of why fitness and physical health is so important, especially for programmers.</description>
-</item>
-
-<item>
-<title>Local State Is The Best State</title>
-<link>https://blog.webdevsimplified.com/2019-12/always-prefer-local-state/</link>
-<description>Storing state in React is difficult to do right, but by storing state as locally as possible it can be a lot easier.</description>
-</item>
-
-<item>
-<title>How To Use Modern CSS Without Breaking Old Browsers</title>
-<link>https://blog.webdevsimplified.com/2019-12/css-supports-property/</link>
-<description>An in depth tutorial on the @supports CSS at-rule, and how it can be used to write modern CSS without breaking older browser support.</description>
-</item>
-
-<item>
-<title>How To Use And Write Express Middleware</title>
-<link>https://blog.webdevsimplified.com/2019-12/express-middleware-in-depth/</link>
-<description>Middleware in Express is one of the easiest ways to create DRY and well written code which is why it is crucial to know how to use and write good middleware.</description>
-</item>
-
-<item>
-<title>The Forgotten React Renderer - React Portal</title>
-<link>https://blog.webdevsimplified.com/2019-12/how-to-use-react-portal/</link>
-<description>React portal lets components be rendered outside their parent component which is incredibly useful in specific scenarios explained in depth in this article.</description>
-</item>
-
-<item>
-<title>Async Vs Defer - JavaScript Loading Explanation</title>
-<link>https://blog.webdevsimplified.com/2019-12/javascript-loading-attributes-explained/</link>
-<description>An explanation of the difference between standard, async, and defer script tag loading, and which is the best to use.</description>
-</item>
-
-<item>
-<title>Dynamic Expandable Content (Read More Buttons)</title>
-<link>https://blog.webdevsimplified.com/2020-01/dynamic-expandable-content/</link>
-<description>Multiline text overflow fading and dynamic expand/collapse buttons are difficult to create so in this article I show you a simple way to do both.</description>
-</item>
-
-<item>
-<title>Guard Clauses - The Best Way To Write Complex Conditional Logic</title>
-<link>https://blog.webdevsimplified.com/2020-01/guard-clauses/</link>
-<description>An explanation of guard clauses and how they can be used to clean up complex nested conditional logic.</description>
-</item>
-
-<item>
-<title>Semantic Versioning Explained</title>
-<link>https://blog.webdevsimplified.com/2020-01/semantic-versioning/</link>
-<description>An explanation of what semantic versioning is and why it is important.</description>
-</item>
-
-<item>
-<title>JavaScript Var vs Let vs Const</title>
-<link>https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/</link>
-<description>A quick explanation of the differences between var, let, and const.</description>
-</item>
-
-<item>
-<title>CSS Custom Properties</title>
-<link>https://blog.webdevsimplified.com/2020-02/css-custom-properties/</link>
-<description>Everything you need to know about CSS custom properties.</description>
-</item>
-
-<item>
-<title>CSS Specificity Demystified</title>
-<link>https://blog.webdevsimplified.com/2020-02/css-specificity/</link>
-<description>An in depth breakdown of how CSS specificity works.</description>
-</item>
-
-<item>
-<title>What Are Magic Numbers And Why Are They Bad</title>
-<link>https://blog.webdevsimplified.com/2020-02/magic-numbers/</link>
-<description>A brief explanation of magic numbers in code and why they are bad.</description>
-</item>
-
-<item>
-<title>N + 1 Queries: The Easiest Way To Improve Performance</title>
-<link>https://blog.webdevsimplified.com/2020-02/n-plus-one-query/</link>
-<description>A brief explanation of N + 1 queries and how to avoid them.</description>
-</item>
-
-<item>
-<title>Animation Fill Mode</title>
-<link>https://blog.webdevsimplified.com/2020-03/animation-fill-mode/</link>
-<description>Animation fill mode is the single most important property of CSS animations to understand so in this article I will be breaking down exactly how to use animation fill mode and what it does.</description>
-</item>
-
-<item>
-<title>CSS Triangles</title>
-<link>https://blog.webdevsimplified.com/2020-03/css-triangles/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-03/css-triangles/</guid>
-<description>Learn all about how triangles can be created and manipulated in CSS.</description>
-</item>
-
-<item>
-<title>JavaScript Null Coalesce</title>
-<link>https://blog.webdevsimplified.com/2020-03/javascript-null-coalesce/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-03/javascript-null-coalesce/</guid>
-<description>Null coalesce is a new JavaScript language feature which makes assigning default values for null/undefined incredibly easy.</description>
-<pubDate>Mon, 16 Mar 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>JavaScript Optional Chaining</title>
-<link>https://blog.webdevsimplified.com/2020-03/javascript-optional-chaining/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-03/javascript-optional-chaining/</guid>
-<description>Optional chaining is a new JavaScript language feature which will revolutionize how null and undefined are handled.</description>
-<pubDate>Mon, 09 Mar 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Tagged Template Literals</title>
-<link>https://blog.webdevsimplified.com/2020-03/tagged-template-literals/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-03/tagged-template-literals/</guid>
-<description>Exploring the power of tagged template literals.</description>
-<pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Why You Should Trade Money For Time</title>
-<link>https://blog.webdevsimplified.com/2020-04/trade-money-for-time/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-04/trade-money-for-time/</guid>
-<description>You are used to trading time for money at your job, but trading your money for time is just as important if not more important.</description>
-<pubDate>Mon, 13 Apr 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Everything You Need To Know About useEffect</title>
-<link>https://blog.webdevsimplified.com/2020-04/use-effect/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-04/use-effect/</guid>
-<description>An in depth look at every aspect of the useEffect React hook.</description>
-<pubDate>Mon, 27 Apr 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Everything You Need To Know About useState</title>
-<link>https://blog.webdevsimplified.com/2020-04/use-state/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-04/use-state/</guid>
-<description>An in depth look at every aspect of the useState React hook.</description>
-<pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Why Everyone Should Learn Programming</title>
-<link>https://blog.webdevsimplified.com/2020-04/why-everyone-should-learn-programming/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-04/why-everyone-should-learn-programming/</guid>
-<description>While not everyone should be a programmer I think it is crucial that everyone learns at least the basics of programming.</description>
-<pubDate>Mon, 06 Apr 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Write Cleaner CSS With BEM</title>
-<link>https://blog.webdevsimplified.com/2020-05/bem/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-05/bem/</guid>
-<description>This article covers everything you need to know about BEM in order to start using BEM to clean up and organize your CSS styles.</description>
-<pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Use Memoization To Drastically Increase React Performance</title>
-<link>https://blog.webdevsimplified.com/2020-05/memoization-in-react/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-05/memoization-in-react/</guid>
-<description>An in depth look at every aspect of the useMemo and useCallback React hooks.</description>
-<pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>JavaScript Ternary Operator In Depth</title>
-<link>https://blog.webdevsimplified.com/2020-05/ternary-operator/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-05/ternary-operator/</guid>
-<description>Everything You Need To Know About The Ternary Operator In JavaScript.</description>
-<pubDate>Mon, 18 May 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Use Refs In React With Hooks</title>
-<link>https://blog.webdevsimplified.com/2020-05/use-ref/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-05/use-ref/</guid>
-<description>An in depth look at every aspect of refs and the useRef hook in React.</description>
-<pubDate>Mon, 11 May 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Center Vertically In CSS</title>
-<link>https://blog.webdevsimplified.com/2020-06/centering-with-css/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-06/centering-with-css/</guid>
-<description>Every method you need to know to center elements in CSS.</description>
-<pubDate>Mon, 29 Jun 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Code Splitting With Dynamic Module Imports</title>
-<link>https://blog.webdevsimplified.com/2020-06/dynamic-module-import/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-06/dynamic-module-import/</guid>
-<description>A simple explanation of how to take advantage of dynamic imports to make your site load faster.</description>
-<pubDate>Mon, 22 Jun 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Why Use The HTML Template Tag?</title>
-<link>https://blog.webdevsimplified.com/2020-06/template-tag/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-06/template-tag/</guid>
-<description>An in depth explanation of why you should be using the template tag.</description>
-<pubDate>Mon, 15 Jun 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Use Context In React With Hooks</title>
-<link>https://blog.webdevsimplified.com/2020-06/use-context/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-06/use-context/</guid>
-<description>An in depth look at every aspect of the the context API and the useContext hook in React.</description>
-<pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Manage Complex State In React With useReducer</title>
-<link>https://blog.webdevsimplified.com/2020-06/use-reducer/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-06/use-reducer/</guid>
-<description>An in depth look at every aspect of the the useReducer hook in React.</description>
-<pubDate>Mon, 08 Jun 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Everything You Need To Know About CSS Calc</title>
-<link>https://blog.webdevsimplified.com/2020-07/css-calc/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-07/css-calc/</guid>
-<description>This article breaks down everything you need to know about CSS calc to take your CSS skills to the next level.</description>
-<pubDate>Mon, 27 Jul 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>What The Heck Is Hoisting?</title>
-<link>https://blog.webdevsimplified.com/2020-07/javascript-hoisting/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-07/javascript-hoisting/</guid>
-<description>You have probably heard of hoisting but what exactly is it and how does it work.</description>
-<pubDate>Mon, 13 Jul 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Relative Date Internationalization In JavaScript</title>
-<link>https://blog.webdevsimplified.com/2020-07/relative-time-format/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-07/relative-time-format/</guid>
-<description>Do you wish you could format dates like this: '2 days ago', 'yesterday'. Well with JavaScript internationalization it is incredibly easy.</description>
-<pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Why Do We Need useLayoutEffect?</title>
-<link>https://blog.webdevsimplified.com/2020-07/use-layout-effect/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-07/use-layout-effect/</guid>
-<description>An in depth look at every aspect of the useLayoutEffect React hook.</description>
-<pubDate>Mon, 20 Jul 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>10 Essential Keyboard Shortcuts For Programmers</title>
-<link>https://blog.webdevsimplified.com/2020-08/10-best-keyboard-shortcuts/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-08/10-best-keyboard-shortcuts/</guid>
-<description>These are my 10 favorite keyboard shortcuts that I use everyday as a programmer.</description>
-<pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Stop Using Double Equals In JavaScript</title>
-<link>https://blog.webdevsimplified.com/2020-08/==-vs-===/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-08/==-vs-===/</guid>
-<description>Everything you need to know about the difference between double and triple equals in JavaScript.</description>
-<pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>JavaScript Cookies vs Local Storage vs Session Storage</title>
-<link>https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/</guid>
-<description>An in depth analysis of all the differences between cookies, localStorage, and sessionStorage.</description>
-<pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Use Destructuring And The Spread Operator? (One Of The Best JS Features)</title>
-<link>https://blog.webdevsimplified.com/2020-08/destructuring-and-spread/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-08/destructuring-and-spread/</guid>
-<description>An in depth analysis of how to use destructuring and the spread operator with objects and arrays.</description>
-<pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Stop Using IIFEs</title>
-<link>https://blog.webdevsimplified.com/2020-08/javascript-iife/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-08/javascript-iife/</guid>
-<description>Due to modern JavaScript features we no longer need to use immediately invoked function expressions.</description>
-<pubDate>Mon, 31 Aug 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>5 Ways To Become A Better Developer</title>
-<link>https://blog.webdevsimplified.com/2020-09/5-ways-to-become-a-better-developer/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-09/5-ways-to-become-a-better-developer/</guid>
-<description>Here are some quick tips you can use to improve your development skills.</description>
-<pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>(Arrow Functions) => Explained</title>
-<link>https://blog.webdevsimplified.com/2020-09/arrow-functions/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-09/arrow-functions/</guid>
-<description>Arrow functions are one of the best features added to JavaScript and in this article I will explain everything you need to know about them.</description>
-<pubDate>Mon, 14 Sep 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Prevent The Most Common Cross Site Scripting Attack</title>
-<link>https://blog.webdevsimplified.com/2020-09/javascript-xss/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-09/javascript-xss/</guid>
-<description>A quick guide on how cross site scripting works and how to ensure your site is not vulnerable.</description>
-<pubDate>Mon, 07 Sep 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>What Are Pure Functions?</title>
-<link>https://blog.webdevsimplified.com/2020-09/pure-functions/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-09/pure-functions/</guid>
-<description>A quick explanation on what pure functions are and how to use them.</description>
-<pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Data Attributes In JavaScript</title>
-<link>https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/</guid>
-<description>How to use data attributes in JavaScript.</description>
-<pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Every Beginner Is Confused By This</title>
-<link>https://blog.webdevsimplified.com/2020-10/javascript-functions-as-arguments/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-10/javascript-functions-as-arguments/</guid>
-<description>How passing functions to other functions works in JavaScript.</description>
-<pubDate>Mon, 26 Oct 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>NaN - Not A Problem</title>
-<link>https://blog.webdevsimplified.com/2020-10/javascript-nan/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-10/javascript-nan/</guid>
-<description>Everything you need to know about NaN in JavaScript.</description>
-<pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Instant Easy React Performance With Debounce</title>
-<link>https://blog.webdevsimplified.com/2020-10/react-debounce/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-10/react-debounce/</guid>
-<description>Get easy and quick React performance with a custom debounce hook.</description>
-<pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Literally Everything You Need To Know About classList</title>
-<link>https://blog.webdevsimplified.com/2020-11/class-list/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-11/class-list/</guid>
-<description>JavaScript classList seems straightforward, but there are actually multiple unique methods you probably don't know.</description>
-<pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>CSS Clamp Is Amazing</title>
-<link>https://blog.webdevsimplified.com/2020-11/css-clamp/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-11/css-clamp/</guid>
-<description>A short explanation of how to use clamp in CSS.</description>
-<pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Floats Are Still Useful</title>
-<link>https://blog.webdevsimplified.com/2020-11/css-floats/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-11/css-floats/</guid>
-<description>A short explanation on how CSS floats are still useful.</description>
-<pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Complete Array#flat Guide</title>
-<link>https://blog.webdevsimplified.com/2020-12/javascript-array-flat/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-12/javascript-array-flat/</guid>
-<description>If you are dealing with nested arrays then you need to know about the Array#flat method.</description>
-<pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Start Using JavaScript Maps Now</title>
-<link>https://blog.webdevsimplified.com/2020-12/javascript-maps/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-12/javascript-maps/</guid>
-<description>Maps in JavaScript are more performant, easier to use, and better equipped than JavaScript objects.</description>
-<pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Use PropTypes In React</title>
-<link>https://blog.webdevsimplified.com/2020-12/react-prop-types/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-12/react-prop-types/</guid>
-<description>PropTypes are perfect for adding basic type safety to your React project.</description>
-<pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Responsive CSS Aspect Ratio</title>
-<link>https://blog.webdevsimplified.com/2020-12/responsive-css-video/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2020-12/responsive-css-video/</guid>
-<description>Creating a responsive video or iframe that maintains its aspect ratio in CSS is much trickier than you may think.</description>
-<pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Transform</title>
-<link>https://blog.webdevsimplified.com/2021-01/css-transform/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-01/css-transform/</guid>
-<description>This article covers everything you need to know about the CSS transform property and the various transform functions.</description>
-<pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Generators Are Awesome!</title>
-<link>https://blog.webdevsimplified.com/2021-01/javascript-generators/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-01/javascript-generators/</guid>
-<description>Generators are incredibly useful for specific tasks and much easier to use than they appear.</description>
-<pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Start Using JavaScript Sets Now</title>
-<link>https://blog.webdevsimplified.com/2021-01/javascript-sets/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-01/javascript-sets/</guid>
-<description>Sets in JavaScript are a specialized type of array that is perfect for unique lists.</description>
-<pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Null Vs Undefined</title>
-<link>https://blog.webdevsimplified.com/2021-01/null-vs-undefined/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-01/null-vs-undefined/</guid>
-<description>This article explains the difference between null and undefined in depth.</description>
-<pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Enhanced Object Literals</title>
-<link>https://blog.webdevsimplified.com/2021-02/javascript-enhanced-object-literals/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-02/javascript-enhanced-object-literals/</guid>
-<description>Creating objects in JavaScript is something you do all the time so you should know about these enhancements that make creating objects even easier.</description>
-<pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Dynamic Module Imports</title>
-<link>https://blog.webdevsimplified.com/2021-03/dynamic-module-imports/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-03/dynamic-module-imports/</guid>
-<description>By using dynamic module imports you can speed up your applications while making the user experience better.</description>
-<pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Reference Vs Value - Most People Don't Understand This</title>
-<link>https://blog.webdevsimplified.com/2021-03/js-reference-vs-value/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-03/js-reference-vs-value/</guid>
-<description>Reference vs value is one of the most complicated topics beginner developers face, but it is much easier than it appears.</description>
-<pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Why Programming Needs To Be Fun</title>
-<link>https://blog.webdevsimplified.com/2021-03/why-programming-needs-to-be-fun/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-03/why-programming-needs-to-be-fun/</guid>
-<description>If you are unable to make programming fun you will never be able to become a programmer.</description>
-<pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Do You Need To Know Math?</title>
-<link>https://blog.webdevsimplified.com/2021-04/math-as-a-programmer/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-04/math-as-a-programmer/</guid>
-<description>Programmers learn a ton of math in school, but do you really need to know math to be a programmer?</description>
-<pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>What Is Recursion?</title>
-<link>https://blog.webdevsimplified.com/2021-04/recursion/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-04/recursion/</guid>
-<description>Recursion is one of the hardest topics to learn as a new developer, but this is mostly due to confusing explanations and examples. This article will break down recursion in an easy to understand way with concrete and simple examples.</description>
-<pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CORS (Cross-Origin Resource Sharing)</title>
-<link>https://blog.webdevsimplified.com/2021-05/cors/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-05/cors/</guid>
-<description>What is CORS and how to fix CORS errors.</description>
-<pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Logical Properties</title>
-<link>https://blog.webdevsimplified.com/2021-05/css-logical-properties/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-05/css-logical-properties/</guid>
-<description>CSS logical properties are the new way to write padding, margin, border, and so much more. They will change CSS forever.</description>
-<pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Initial vs Inherit vs Unset vs Revert</title>
-<link>https://blog.webdevsimplified.com/2021-05/initial-inherit-revert-unset/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-05/initial-inherit-revert-unset/</guid>
-<description>Understanding how to undo and remove styles in CSS is a skill most developers never learn, but it is incredibly useful.</description>
-<pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>JavaScript Node Vs Element</title>
-<link>https://blog.webdevsimplified.com/2021-05/node-vs-element/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-05/node-vs-element/</guid>
-<description>Nodes and elements are very similar in JavaScript, but there are a few important differences to understand.</description>
-<pubDate>Mon, 17 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>JavaScript Array Reduce Simplified</title>
-<link>https://blog.webdevsimplified.com/2021-05/reduce/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-05/reduce/</guid>
-<description>How the array reduce function works in JavaScript and how you can use it in your projects.</description>
-<pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>What Is HSL?</title>
-<link>https://blog.webdevsimplified.com/2021-06/hsl-color-format/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-06/hsl-color-format/</guid>
-<description>HSL is the easiest and best color format to use with CSS, but why exactly is that?</description>
-<pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>What's New In React 18?</title>
-<link>https://blog.webdevsimplified.com/2021-06/react-18-changes/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-06/react-18-changes/</guid>
-<description>React 18 introduces a ton of new features related to performance and loading which you should be excited about.</description>
-<pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Accept Payments With Stripe</title>
-<link>https://blog.webdevsimplified.com/2021-07/stripe-checkout/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-07/stripe-checkout/</guid>
-<description>Almost every application needs some way to accept payments so in this article I will show you how to easily configure Stripe in just a few lines of code.</description>
-<pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Manage Technical Debt?</title>
-<link>https://blog.webdevsimplified.com/2021-07/technical-debt/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-07/technical-debt/</guid>
-<description>Technical debt may seem inevitable, but there are many techniques you can use to manage technical debt.</description>
-<pubDate>Mon, 05 Jul 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Are Online Courses Worth It?</title>
-<link>https://blog.webdevsimplified.com/2021-08/are-online-courses-worth-it/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-08/are-online-courses-worth-it/</guid>
-<description>Online courses claim to make you a developer quicker and easier, but are they worth the sometimes astronomical cost?</description>
-<pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Learn To Code Faster With Comments</title>
-<link>https://blog.webdevsimplified.com/2021-08/how-to-learn-to-code-with-comments/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-08/how-to-learn-to-code-with-comments/</guid>
-<description>Building projects from scratch is hard, but if you utilize comments correctly you can make writing projects from scratching trivial.</description>
-<pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>The Complete JavaScript Promise Guide</title>
-<link>https://blog.webdevsimplified.com/2021-09/javascript-promises/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-09/javascript-promises/</guid>
-<description>I promise this will be the best guide on promises you ever read.</description>
-<pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>10 Must Know Git Commands That Almost Nobody Knows</title>
-<link>https://blog.webdevsimplified.com/2021-10/advanced-git-commands/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-10/advanced-git-commands/</guid>
-<description>Everyone knows how to add and commit changes, but that is only the start of Git. The Git commands in this article will supercharge your Git skills and save you time.</description>
-<pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Better Than Promises - JavaScript Async/Await</title>
-<link>https://blog.webdevsimplified.com/2021-11/async-await/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-11/async-await/</guid>
-<description>Async/Await is syntactical sugar that makes working with promises and async code so much easier.</description>
-<pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>ES6 JavaScript Modules</title>
-<link>https://blog.webdevsimplified.com/2021-11/es6-modules/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-11/es6-modules/</guid>
-<description>ES6 modules are one of the best features added to JavaScript since it makes writing clean code exponentially easier.</description>
-<pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Flexbox Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2021-11/flexbox/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-11/flexbox/</guid>
-<description>Flexbox is easy to get started with but hard to master which is why I created this ultimate guide to teach you not only the basics, but also the more advanced features of flexbox.</description>
-<pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Use The Most Used Array Method - Map</title>
-<link>https://blog.webdevsimplified.com/2021-11/js-array-map/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-11/js-array-map/</guid>
-<description>Map is by far the most used array method and in this article I will explain exactly what it does and why it is so useful.</description>
-<pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>useDebugValue React Hook Explained</title>
-<link>https://blog.webdevsimplified.com/2021-11/use-debug-value/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-11/use-debug-value/</guid>
-<description>You have probably never used the useDebugValue hook, but this hook is incredible at helping you debug your custom hooks.</description>
-<pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Box Model</title>
-<link>https://blog.webdevsimplified.com/2021-12/box-model/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-12/box-model/</guid>
-<description>There are countless ways to size and space out elements in CSS, but all those techniques involve the box model which is why learning the box model is crucial to learning CSS.</description>
-<pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Pseudo Elements Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2021-12/css-pseudo-elements/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-12/css-pseudo-elements/</guid>
-<description>Pseudo elements are an essential piece of CSS knowledge that you need to understand in order to create advanced designs.</description>
-<pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Selector Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2021-12/css-selectors/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-12/css-selectors/</guid>
-<description>CSS selectors are easy to get started with but hard to master since there are so many options which is why I created this ultimate guide to teach you not only the basics, but also the more advanced CSS selectors you need to know.</description>
-<pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Stop Using setInterval. Use requestAnimationFrame</title>
-<link>https://blog.webdevsimplified.com/2021-12/request-animation-frame/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2021-12/request-animation-frame/</guid>
-<description>requestAnimationFrame is the best way in JavaScript to play smooth and efficient animations and in this article I will show you exactly how to use requestAnimationFrame.</description>
-<pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS Position Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-01/css-position/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-01/css-position/</guid>
-<description>Understanding how CSS position works seems straightforward, but there are quite a few nuances you need to understand in order to truly master CSS.</description>
-<pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>JavaScript Event Listeners Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-01/event-listeners/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-01/event-listeners/</guid>
-<description>Event listeners appear simple at first, but they have an incredible level of depth that most people completely ignore. This article will cover everything you need to know about event listeners so you can avoid bugs and write better code for your projects.</description>
-<pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>JavaScript Intersection Observer Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-01/intersection-observer/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-01/intersection-observer/</guid>
-<description>Lazy loading, infinite scrolling, scroll based animations, and performant scroll events are all perfect examples of Intersection Observer in action.</description>
-<pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>JavaScript Fetch API Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-01/js-fetch-api/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-01/js-fetch-api/</guid>
-<description>The fetch API looks straightforward, but there are a lot of edge cases that this blog article will address for you.</description>
-<pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>JavaScript Resize Observer Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-01/resize-observer/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-01/resize-observer/</guid>
-<description>Detecting element size changes is something that is normally difficult to do, but with resize observer it is incredibly easy.</description>
-<pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>MongoDB Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-02/mongo-db/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-02/mongo-db/</guid>
-<description>This ultimate guide will break down everything you need to know about MongoDB to build your next project.</description>
-<pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Temporal Date API Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-02/temporal-date-api/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-02/temporal-date-api/</guid>
-<description>This ultimate guide will break down everything you need to know about the new temporal date API in JavaScript.</description>
-<pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>20+ Console Methods That Will Revolutionize Debugging For You</title>
-<link>https://blog.webdevsimplified.com/2022-03/console-methods/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-03/console-methods/</guid>
-<description>You probably know console.log and a few other console methods, but did you know there are over 20 amazing console methods that make debugging easier and more enjoyable.</description>
-<pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Implement Debounce And Throttle In JavaScript</title>
-<link>https://blog.webdevsimplified.com/2022-03/debounce-vs-throttle/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-03/debounce-vs-throttle/</guid>
-<description>Debounce and throttle are two of the best ways to improve the performance of your site and in this article I talk all about how to implement both options and what they do.</description>
-<pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Create A VSCode Snippet</title>
-<link>https://blog.webdevsimplified.com/2022-03/vscode-snippet/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-03/vscode-snippet/</guid>
-<description>Snippets are one of the easiest ways to customize your VSCode experience and in this article I will explain everything you need to know about creating your first snippet.</description>
-<pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Use CSS Layers</title>
-<link>https://blog.webdevsimplified.com/2022-04/css-cascade-layers/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-04/css-cascade-layers/</guid>
-<description>CSS layers change how the cascade works and it makes writing clean CSS code so much easier.</description>
-<pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Create Custom JavaScript Events</title>
-<link>https://blog.webdevsimplified.com/2022-04/js-custom-events/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-04/js-custom-events/</guid>
-<description>Custom events in JavaScript make handling things like double click, long press, and touch gestures much easier, but they can also be used for cross app communication.</description>
-<pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Stop Using The "!" Bang Operator In JavaScript</title>
-<link>https://blog.webdevsimplified.com/2022-04/stop-using-bang-operator/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-04/stop-using-bang-operator/</guid>
-<description>You may think you are writing cleaner code using the bang operator, but in reality you are just opening yourself up to a plethora of bugs.</description>
-<pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>useTransition Hook Explained</title>
-<link>https://blog.webdevsimplified.com/2022-04/use-transition/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-04/use-transition/</guid>
-<description>React 18 introduced many new hooks and in this article I will be talking about useTransition which is the most useful of those hooks.</description>
-<pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>useDeferredValue Hook Explained</title>
-<link>https://blog.webdevsimplified.com/2022-05/use-deferred-value/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-05/use-deferred-value/</guid>
-<description>React 18 introduced many new hooks and in this article I will be talking about useDeferredValue.</description>
-<pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>useId Hook Explained</title>
-<link>https://blog.webdevsimplified.com/2022-06/use-id/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-06/use-id/</guid>
-<description>React 18 introduced many new hooks and in this article I will be talking about useId.</description>
-<pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>useImperativeHandle Hook Ultimate Guide</title>
-<link>https://blog.webdevsimplified.com/2022-06/use-imperative-handle/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-06/use-imperative-handle/</guid>
-<description>useImperativeHandle is the perfect hook for handling complex ref behaviors, but it is pretty complicated to understand.</description>
-<pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Facade Pattern Explained With Practical Examples</title>
-<link>https://blog.webdevsimplified.com/2022-07/facade-pattern/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-07/facade-pattern/</guid>
-<description>The facade pattern is a very common and simple design pattern which can easily clean up your code which is why it is one of the first design patterns you should learn</description>
-<pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Structure React Projects From Beginner To Advanced</title>
-<link>https://blog.webdevsimplified.com/2022-07/react-folder-structure/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-07/react-folder-structure/</guid>
-<description>React's unopinionated nature makes it hard to know how to structure projects which is why in this article I am covering 3 different ways of laying out your folder structure in React.</description>
-<pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Ultimate React Router v6 Guide</title>
-<link>https://blog.webdevsimplified.com/2022-07/react-router/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-07/react-router/</guid>
-<description>React Router is by far the most popular routing library in React and this article goes in depth on everything you need to know about React Router.</description>
-<pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>All 24 CSS Viewport Units Explained</title>
-<link>https://blog.webdevsimplified.com/2022-08/css-viewport-units/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-08/css-viewport-units/</guid>
-<description>There are 24 total viewport units in CSS which all serve a specific purpose and my goal in this article is to explain each unit to you.</description>
-<pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>CSS :has A Parent Selector And It Is Better Than I Ever Could Have Hoped For</title>
-<link>https://blog.webdevsimplified.com/2022-09/css-has-selector/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-09/css-has-selector/</guid>
-<description>CSS has been lacking a parent selector for years and now they finally introduced one with the :has pseudo class and it is incredible!</description>
-<pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Is CSS Transform Dead?</title>
-<link>https://blog.webdevsimplified.com/2022-09/css-individual-transform-properties/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-09/css-individual-transform-properties/</guid>
-<description>CSS just added individual rotate, translate, and scale properties which almost entirely remove the need for the transform property in CSS.</description>
-<pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>All 4 JavaScript Scopes Explained</title>
-<link>https://blog.webdevsimplified.com/2022-10/js-scoping/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-10/js-scoping/</guid>
-<description>There are 4 different scopes in JavaScript which each behave differently and you need to understand those differences to truly master JavaScript.</description>
-<pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>New CSS Range Media Queries</title>
-<link>https://blog.webdevsimplified.com/2022-12/css-range-media-queries/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-12/css-range-media-queries/</guid>
-<description>Defining media queries with min-width and max-width is not super intuitive which is why CSS added range media queries and they are amazing.</description>
-<pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Every Important HTTP Status Code Explained</title>
-<link>https://blog.webdevsimplified.com/2022-12/http-status-codes/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2022-12/http-status-codes/</guid>
-<description>HTTP status codes are vital to creating an API and in this article I will explain all the important HTTP status codes and when to use them.</description>
-<pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Modals Will Never Be The Same - HTML dialog Element</title>
-<link>https://blog.webdevsimplified.com/2023-04/html-dialog/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2023-04/html-dialog/</guid>
-<description>The new HTML dialog element makes working with accessible modals so much easier. In this article I explain everything you need to know about the new dialog element to use it in your next project.</description>
-<pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Speed Up Your Site Instantly With Lazy Loaded Images - Advanced Lazy Loading</title>
-<link>https://blog.webdevsimplified.com/2023-05/lazy-load-images/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2023-05/lazy-load-images/</guid>
-<description>Lazy loading images is one of the easiest ways to speed up your site, but there are a few advanced techniques you can use to make your lazy loading even better.</description>
-<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>How To Speed Up Page Load With Responsive Images</title>
-<link>https://blog.webdevsimplified.com/2023-05/responsive-images/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2023-05/responsive-images/</guid>
-<description>Image loading is a major factor in page load times which is why it is important to use responsive images to minimize the amount of data that is transferred to users.</description>
-<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-<title>Markdown Crash Course</title>
-<link>https://blog.webdevsimplified.com/2023-06/markdown-crash-course/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2023-06/markdown-crash-course/</guid>
-<description>Markdown is one of the best text markup languages and with this aritcle you will learn everything you need to know to become a master of Markdown.</description>
-<pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>React Server Components - A New Paradigm</title>
-<link>https://blog.webdevsimplified.com/2023-11/react-server-components/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2023-11/react-server-components/</guid>
-<description>Server components are the new way of writing React applications and it changes everything about React making it easier than ever to create complex applications. This article goes in depth into everything you need to know about server components.</description>
-<pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>New CSS Property margin-trim</title>
-<link>https://blog.webdevsimplified.com/2023-12/margin-trim/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2023-12/margin-trim/</guid>
-<description>The new CSS property margin-trim is very simple, but incredibly useful when working in a component based design system.</description>
-<pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Finally Master Next.js's Most Complex Feature - Caching</title>
-<link>https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/</guid>
-<description>By far the most confusing part of the app router in Next.js is how caching works which is why this article will break down exactly how every part of Next.js's cache works so you can stop fighting it and start benefiting from amazing performance gains.</description>
-<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>We Can Finally Animate height: auto; in CSS!</title>
-<link>https://blog.webdevsimplified.com/2024-07/css-calc-size/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-07/css-calc-size/</guid>
-<description>For decades, height: auto; has been a pain to animate in CSS. But with the introduction of the calc-size() function in CSS, we can finally animate height: auto; without the need for any JavaScript.</description>
-<pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>Do You Know All 4 CSS Focus Styles?</title>
-<link>https://blog.webdevsimplified.com/2024-07/css-focus-crash-course/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-07/css-focus-crash-course/</guid>
-<description>Handling focus in CSS is quite a bit more complicated than it seems and in this article I cover the 3 main CSS focus methods as well as a secret fourth focus method.</description>
-<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>4 New TypeScript 5.5 Features</title>
-<link>https://blog.webdevsimplified.com/2024-07/ts-5.5-changes</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-07/ts-5.5-changes</guid>
-<description>TypeScript 5.5 may seem like a small update, but it comes with one of the most requested features for fixing array filtering as well as 3 other really cool features that I love.</description>
-<pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>aspect-ratio Is One Of My Favorite CSS Properties</title>
-<link>https://blog.webdevsimplified.com/2024-08/css-aspect-ratio/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-08/css-aspect-ratio/</guid>
-<description>The aspect-ratio CSS property makes responsive design (especially with images/videos) so much easier and it only takes a few minutes to learn.</description>
-<pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>CSS Quantity Queries Are Really Cool</title>
-<link>https://blog.webdevsimplified.com/2024-10/css-quantity-queries/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-10/css-quantity-queries/</guid>
-<description>Quantity queries are an incredible CSS feature that allows you to style elements based on the number of elements in a container without using any JavaScript at all.</description>
-<pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>How To Build Projects 100% Faster</title>
-<link>https://blog.webdevsimplified.com/2024-10/whiteboard-planning/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-10/whiteboard-planning/</guid>
-<description>Learning how to properly plan projects is one of the most important skills you can learn since it will lead to you finishing more projects quicker.</description>
-<pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>CSS Advanced Display Property - contents, multi-value, flow-root, etc.</title>
-<link>https://blog.webdevsimplified.com/2024-11/css-advanced-display-property/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2024-11/css-advanced-display-property/</guid>
-<description>The display property in CSS can do so much more than just flexbox, grid, and none which is why this article is all about deep diving into the lesser known, but equally as powerful other uses of the display property.</description>
-<pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-</item>
-
-<item>
-<title>@property Is One Of The Coolest New CSS Features</title>
-<link>https://blog.webdevsimplified.com/2025-01/css-at-property/</link>
-<guid isPermaLink="true">https://blog.webdevsimplified.com/2025-01/css-at-property/</guid>
-<description>@property is the next level of custom properties in CSS and it has the potential to completely change the CSS writing experience.</description>
-<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-</item> 
-  </channel>
+	<channel>
+		<item>
+			<title>W3Schools</title>
+			<link>https://www.w3schools.com/html/default.asp</link>
+			<description>Your go-to resource for web development tutorials and references.</description>
+			<icon>https://brandlogo.org/wp-content/uploads/2024/11/W3Schools-Icon-2020-300x300.png.webp</icon>
+		</item>
+		<item>
+			<title>Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/web-development/?ref=home-articlecards</link>
+			<description>Comprehensive platform for learning web development concepts and practices.</description>
+			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+		</item>
+		<item>
+			<title>MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web</link>
+			<description>Official documentation for web development technologies by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs</link>
+			<description>Collection of code docs for popular programming languages and frameworks</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/</link>
+			<description>A blog focused on making web development easier and more accessible.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Web Dev</title>
+			<link>https://web.dev/learn</link>
+			<description>Learn modern web development with easy-to-follow tutorials and best practices.</description>
+			<icon> https://png.pngtree.com/png-vector/20220724/ourmid/pngtree-web-development-icon-icon-code-web-vector-png-image_38125212.png</icon>
+		</item>
+		<item>
+			<title>React Official Website</title>
+			<link>https://react.dev/learn</link>
+			<description>Official documentation and guides for learning React.</description>
+			<icon> https://w7.pngwing.com/pngs/54/45/png-transparent-react-javascript-library-angularjs-web-application-framework-logo-symmetry-web-application-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>HTML - W3Schools</title>
+			<link>https://www.w3schools.com/html/default.asp</link>
+			<description>Your go-to resource for HTML tutorials and references.</description>
+			<icon>https://brandlogo.org/wp-content/uploads/2024/11/W3Schools-Icon-2020-300x300.png.webp</icon>
+		</item>
+		<item>
+			<title>CSS - W3Schools</title>
+			<link>https://www.w3schools.com/css/default.asp</link>
+			<description>Your go-to resource for CSS tutorials and references.</description>
+			<icon>https://brandlogo.org/wp-content/uploads/2024/11/W3Schools-Icon-2020-300x300.png.webp</icon>
+		</item>
+		<item>
+			<title>Javascript - W3Schools</title>
+			<link>https://www.w3schools.com/js/default.asp</link>
+			<description>Your go-to resource for Javascript tutorials and references.</description>
+			<icon>https://brandlogo.org/wp-content/uploads/2024/11/W3Schools-Icon-2020-300x300.png.webp</icon>
+		</item>
+		<item>
+			<title>JAVA - W3Schools</title>
+			<link>https://www.w3schools.com/java/default.asp</link>
+			<description>Your go-to resource for Java tutorials and references.</description>
+			<icon>https://brandlogo.org/wp-content/uploads/2024/11/W3Schools-Icon-2020-300x300.png.webp</icon>
+		</item>
+		<item>
+			<title>React - W3Schools</title>
+			<link>https://www.w3schools.com/react/default.asp</link>
+			<description>Your go-to resource for React tutorials and references.</description>
+			<icon>https://brandlogo.org/wp-content/uploads/2024/11/W3Schools-Icon-2020-300x300.png.webp</icon>
+		</item>
+		<item>
+			<title>HTML - Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/html-tutorial/?ref=outind</link>
+			<description>Comprehensive platform for learning HTML concepts and practices.</description>
+		</item>
+		<item>
+			<title>CSS - Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/css-tutorial/?ref=header_outind</link>
+			<description>Comprehensive platform for learning CSS concepts and practices.</description>
+			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+		</item>
+		<item>
+			<title>Javascript - Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/javascript/?ref=header_outind</link>
+			<description>Comprehensive platform for learning Javascript concepts and practices.</description>
+			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+		</item>
+		<item>
+			<title>Typescript - Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/typescript/?ref=header_outind</link>
+			<description>Comprehensive platform for learning Typescript concepts and practices.</description>
+			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+		</item>
+		<item>
+			<title>React - Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/reactjs-introduction/?ref=header_outind</link>
+			<description>Comprehensive platform for learning React concepts and practices.</description>
+			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+		</item>
+		<item>
+			<title>Java - Geeks For Geeks</title>
+			<link>https://www.geeksforgeeks.org/java-programming-basics/?ref=header_outind</link>
+			<description>Comprehensive platform for learning Java concepts and practices.</description>
+			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+		</item>
+		<item>
+			<title>HTML - MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web/HTML</link>
+			<description>Official documentation for HTML by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>CSS - MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web/CSS</link>
+			<description>Official documentation for CSS by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>Javascript - MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web/JavaScript</link>
+			<description>Official documentation for Javascript by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>Web API - MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web/API</link>
+			<description>Official documentation for Web API Interfaces by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>HTTP - MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web/HTTP</link>
+			<description>Official documentation for HTTP Protocol by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>Accessibility - MDN Web Docs</title>
+			<link>https://developer.mozilla.org/en-US/docs/Web/Accessibility</link>
+			<description>Official documentation for Accessibility features by Mozilla.</description>
+			<icon>https://images.seeklogo.com/logo-png/43/2/mdn-logo-png_seeklogo-431703.png</icon>
+		</item>
+		<item>
+			<title>HTML - Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs/html</link>
+			<description>HTML documentation in Code Academy.</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>CSS - Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs/css</link>
+			<description>CSS documentation in Code Academy.</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>Javascript - Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs/javascript</link>
+			<description>Javascript documentation in Code Academy.</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>Java - Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs/java</link>
+			<description>Java documentation in Code Academy.</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>React - Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs/react</link>
+			<description>React documentation in Code Academy.</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>Git - Code Academy</title>
+			<link>https://www.codecademy.com/resources/docs/git</link>
+			<description>Git documentation in Code Academy.</description>
+			<icon>https://w7.pngwing.com/pngs/450/303/png-transparent-codecademy-logos-brands-icon-thumbnail.png</icon>
+		</item>
+		<item>
+			<title>HTML - Web Dev</title>
+			<link>https://web.dev/html</link>
+			<description>Learn modern HTML with easy-to-follow tutorials and best practices.</description>
+			<icon> https://png.pngtree.com/png-vector/20220724/ourmid/pngtree-web-development-icon-icon-code-web-vector-png-image_38125212.png</icon>
+		</item>
+		<item>
+			<title>CSS - Web Dev</title>
+			<link>https://web.dev/css</link>
+			<description>Learn modern CSS with easy-to-follow tutorials and best practices.</description>
+			<icon> https://png.pngtree.com/png-vector/20220724/ourmid/pngtree-web-development-icon-icon-code-web-vector-png-image_38125212.png</icon>
+		</item>
+		<item>
+			<title>Javascript - Web Dev</title>
+			<link>https://web.dev/javascript</link>
+			<description>Learn modern Javascript with easy-to-follow tutorials and best practices.</description>
+			<icon> https://png.pngtree.com/png-vector/20220724/ourmid/pngtree-web-development-icon-icon-code-web-vector-png-image_38125212.png</icon>
+		</item>
+		<item>
+			<title>Attributes In CSS - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2019-10/use-data-attributes-in-css/</link>
+			<description>A quick breakdown of exactly how to use data attributes with CSS to create dynamic content.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Custom Hooks - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2019-11/how-to-write-custom-hooks/</link>
+			<description>A quick explanation of how to write custom hooks and why they are so useful.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Local state is the best state - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2019-12/always-prefer-local-state/</link>
+			<description>Storing state in React is difficult to do right, but by storing state as locally as possible it can be a lot easier.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Async Vs Defer - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2019-12/javascript-loading-attributes-explained/</link>
+			<description>An explanation of the difference between standard, async, and defer script tag loading, and which is the best to use.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript Var vs Let vs Const - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/</link>
+			<description>A quick explanation of the differences between var, let, and const.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Custom Properties - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-02/css-custom-properties/</link>
+			<description>Everything you need to know about CSS custom properties.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Animation Fill Mode - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-03/animation-fill-mode/</link>
+			<description>Animation fill mode is the single most important property of CSS animations to understand so in this article I will be breaking down exactly how to use animation fill mode and what it does.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Triangles - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-03/css-triangles/</link>
+			<description>Learn all about how triangles can be created and manipulated in CSS.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript Null Coalesce - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-03/javascript-null-coalesce/</link>
+			<description>Null coalesce is a new JavaScript language feature which makes assigning default values for null/undefined incredibly easy.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript optional chaining - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-03/javascript-optional-chaining/</link>
+			<description>Optional chaining is a new JavaScript language feature which will revolutionize how null and undefined are handled.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useEffect React hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-04/use-effect/</link>
+			<description>An in depth look at every aspect of the useEffect React hook.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useState React hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-04/use-state/</link>
+			<description>An in depth look at every aspect of the useState React hook.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Using memoization to increase React performance - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-05/memoization-in-react/</link>
+			<description>An in depth look at every aspect of the useMemo and useCallback React hooks.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript ternary operator in depth - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-05/ternary-operator/</link>
+			<description>Everything You Need To Know About The Ternary Operator In JavaScript.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Using Refs in react with hooks - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-05/use-ref/</link>
+			<description>An in depth look at every aspect of refs and the useRef hook in React.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>How to center vertically in CSS - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-06/centering-with-css/</link>
+			<description>Every method you need to know to center elements in CSS.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Using context in React with hooks - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-06/use-context/</link>
+			<description>An in depth look at every aspect of the the context API and the useContext hook in React.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useReducer React hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-06/use-reducer/</link>
+			<description>An in depth look at every aspect of the the useReducer hook in React.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Hoisting - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-07/javascript-hoisting/</link>
+			<description>You have probably heard of hoisting but what exactly is it and how does it work.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useLayoutEffect React hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-07/use-layout-effect/</link>
+			<description>An in depth look at every aspect of the useLayoutEffect React hook.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript cookies vs local storage vs session storage - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/</link>
+			<description>An in depth analysis of all the differences between cookies, localStorage, and sessionStorage.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Destructuring and the spread operator - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-08/destructuring-and-spread/</link>
+			<description>An in depth analysis of how to use destructuring and the spread operator with objects and arrays.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>(Arrow Functions) => Explained - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-09/arrow-functions/</link>
+			<description>Arrow functions are one of the best features added to JavaScript and in this article I will explain everything you need to know about them.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Pure Functions - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-09/pure-functions/</link>
+			<description>A quick explanation on what pure functions are and how to use them.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Data Attributes In JavaScript - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/</link>
+			<description>How to use data attributes in JavaScript.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>How To Use PropTypes In React - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2020-12/react-prop-types/</link>
+			<description>PropTypes are perfect for adding basic type safety to your React project.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Transform - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-01/css-transform/</link>
+			<description>This article covers everything you need to know about the CSS transform property and the various transform functions.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Null Vs Undefined - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-01/null-vs-undefined/</link>
+			<description>This article explains the difference between null and undefined in depth.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>Reference Vs Value - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-03/js-reference-vs-value/</link>
+			<description>Reference vs value is one of the most complicated topics beginner developers face, but it is much easier than it appears.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CORS (Cross-Origin Resource Sharing) - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-05/cors/</link>
+			<description>What is CORS and how to fix CORS errors.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript Node Vs Element - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-05/node-vs-element/</link>
+			<description>Nodes and elements are very similar in JavaScript, but there are a few important differences to understand.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript Promise Guide - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-09/javascript-promises/</link>
+			<description>I promise this will be the best guide on promises you ever read.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript Async/Await - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-11/async-await/</link>
+			<description>Async/Await is syntactical sugar that makes working with promises and async code so much easier.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>ES6 JavaScript Modules - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-11/es6-modules/</link>
+			<description>ES6 modules are one of the best features added to JavaScript since it makes writing clean code exponentially easier.</description>
+		</item>
+		<item>
+			<title>CSS Flexbox - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-11/flexbox/</link>
+			<description>Flexbox is easy to get started with but hard to master which is why I created this ultimate guide to teach you not only the basics, but also the more advanced features of flexbox.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useDebugValue React Hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-11/use-debug-value/</link>
+			<description>You have probably never used the useDebugValue hook, but this hook is incredible at helping you debug your custom hooks.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Box Model - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-12/box-model/</link>
+			<description>There are countless ways to size and space out elements in CSS, but all those techniques involve the box model which is why learning the box model is crucial to learning CSS.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Selector - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2021-12/css-selectors/</link>
+			<description>CSS selectors are easy to get started with but hard to master since there are so many options which is why I created this ultimate guide to teach you not only the basics, but also the more advanced CSS selectors you need to know.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>CSS Position - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-01/css-position/</link>
+			<description>Understanding how CSS position works seems straightforward, but there are quite a few nuances you need to understand in order to truly master CSS.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript event listeners - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-01/event-listeners/</link>
+			<description>Event listeners appear simple at first, but they have an incredible level of depth that most people completely ignore. This article will cover everything you need to know about event listeners so you can avoid bugs and write better code for your projects.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>JavaScript Fetch API - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-01/js-fetch-api/</link>
+			<description>The fetch API looks straightforward, but there are a lot of edge cases that this blog article will address for you.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>How to create a VSCode snippet - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-03/vscode-snippet/</link>
+			<description>Snippets are one of the easiest ways to customize your VSCode experience and in this article I will explain everything you need to know about creating your first snippet.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>How to use CSS layers - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-04/css-cascade-layers/</link>
+			<description>CSS layers change how the cascade works and it makes writing clean CSS code so much easier.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>How to create custom javaScript events - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-04/js-custom-events/</link>
+			<description>Custom events in JavaScript make handling things like double click, long press, and touch gestures much easier, but they can also be used for cross app communication.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useTransition Hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-04/use-transition/</link>
+			<description>React 18 introduced many new hooks and in this article I will be talking about useTransition which is the most useful of those hooks.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useDeferredValue Hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-05/use-deferred-value/</link>
+			<description>React 18 introduced many new hooks and in this article I will be talking about useDeferredValue.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>useId Hook - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-06/use-id/</link>
+			<description>React 18 introduced many new hooks and in this article I will be talking about useId.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>All 4 JavaScript Scopes - Web Dev Simplified</title>
+			<link>https://blog.webdevsimplified.com/2022-10/js-scoping/</link>
+			<description>There are 4 different scopes in JavaScript which each behave differently and you need to understand those differences to truly master JavaScript.</description>
+			<icon>https://pbs.twimg.com/profile_images/1086003406488113153/XBSj69e5_400x400.jpg</icon>
+		</item>
+		<item>
+			<title>HTML - SitePoint</title>
+			<link>https://www.sitepoint.com/html/</link>
+			<description>Official documentation for HTML by SitePoint.</description>
+			<icon>https://cdn-icons-png.flaticon.com/512/23/23310.png</icon>
+		</item>
+		<item>
+			<title>Blogs - SitePoint</title>
+			<link>https://www.sitepoint.com/blog/</link>
+			<description>Collection of up to date blogs on current trends and technologies.</description>
+			<icon>https://cdn-icons-png.flaticon.com/512/23/23310.png</icon>
+		</item>
+	</channel>
 </rss>
