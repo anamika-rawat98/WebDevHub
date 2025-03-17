@@ -11,7 +11,7 @@
 			<title>Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/web-development/?ref=home-articlecards</link>
 			<description>Comprehensive platform for learning web development concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>MDN Web Docs</title>
@@ -77,37 +77,37 @@
 			<title>HTML - Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/html-tutorial/?ref=outind</link>
 			<description>Comprehensive platform for learning HTML concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>CSS - Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/css-tutorial/?ref=header_outind</link>
 			<description>Comprehensive platform for learning CSS concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>Javascript - Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/javascript/?ref=header_outind</link>
 			<description>Comprehensive platform for learning Javascript concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>Typescript - Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/typescript/?ref=header_outind</link>
 			<description>Comprehensive platform for learning Typescript concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>React - Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/reactjs-introduction/?ref=header_outind</link>
 			<description>Comprehensive platform for learning React concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>Java - Geeks For Geeks</title>
 			<link>https://www.geeksforgeeks.org/java-programming-basics/?ref=header_outind</link>
 			<description>Comprehensive platform for learning Java concepts and practices.</description>
-			<icon>https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png</icon>
+			<icon>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1024px-GeeksforGeeks.svg.png</icon>
 		</item>
 		<item>
 			<title>HTML - MDN Web Docs</title>
@@ -206,10 +206,76 @@
 			<icon>https://cdn-icons-png.flaticon.com/512/23/23310.png</icon>
 		</item>
 		<item>
-			<title>Blogs - SitePoint</title>
+			<title>Technical Blogs - SitePoint</title>
 			<link>https://www.sitepoint.com/blog/</link>
 			<description>Collection of up to date blogs on current trends and technologies.</description>
 			<icon>https://cdn-icons-png.flaticon.com/512/23/23310.png</icon>
+		</item>
+		<item>
+			<title>CSS - CSS Tricks</title>
+			<link>https://css-tricks.com/</link>
+			<description>A website that covers everything related to CSS and front-end development.</description>
+			<icon>https://files.mastodon.social/accounts/avatars/109/513/383/818/775/271/original/1817991c31c535d0.png</icon>
+		</item>
+		<item>
+			<title>Using CSS Grids in list items - CSS Tricks</title>
+			<link>https://css-tricks.com/grouping-selection-list-items-together-with-css-grid/</link>
+			<description>Grouping selection list items together with CSS grid.</description>
+			<icon>https://files.mastodon.social/accounts/avatars/109/513/383/818/775/271/original/1817991c31c535d0.png</icon>
+		</item>
+		<item>
+			<title>CSS Selectors - CSS Tricks</title>
+			<link>https://css-tricks.com/css-selectors/</link>
+			<description>A complete guide covering all of the various methods we have to select elements in CSS and how to use them for applying styles.</description>
+			<icon>https://files.mastodon.social/accounts/avatars/109/513/383/818/775/271/original/1817991c31c535d0.png</icon>
+		</item>
+		<item>
+			<title>CSS Media Query guide- CSS Tricks</title>
+			<link>https://css-tricks.com/a-complete-guide-to-css-media-queries/</link>
+			<description>Media queries can modify the appearance (and even behavior) of a website or app based on a matched set of conditions about the user’s device, browser or system settings.</description>
+			<icon>https://files.mastodon.social/accounts/avatars/109/513/383/818/775/271/original/1817991c31c535d0.png</icon>
+		</item>
+		<item>
+			<title>Web Developers Community - Dev.to</title>
+			<link>https://dev.to/</link>
+			<description>A community of over 2,923,505 developers writing about web development and other topics.</description>
+			<icon>https://vectopus.com/_next/image?url=https%3A%2F%2Fcdn.vectopus.com%2Fphosphor%2Ficons%2F626E5EBF791B%2FE9D9EF4B4905%2Ficons-dev-to-logo-512.png&w=3840&q=75</icon>
+		</item>
+		<item>
+			<title>Web Developers Community - Stack Overflow</title>
+			<link>https://stackoverflow.com/questions</link>
+			<description>A massive community where developers ask and answer questions on a wide range of web development topics.</description>
+			<icon>https://cdn.iconscout.com/icon/free/png-256/free-stack-overflow-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-3147691.png?f=webp&w=256</icon>
+		</item>
+		<item>
+			<title>Github</title>
+			<link>https://github.com</link>
+			<description>Open-source repositories and project sharing platform for web development resources.</description>
+			<icon>https://cdn.freebiesupply.com/logos/thumbs/2x/github-icon-1-logo.png</icon>
+		</item>
+		<item>
+			<title>Github Documentation - Github</title>
+			<link>https://docs.github.com/en/get-started</link>
+			<description>Learn how to start building, shipping, and maintaining software with GitHub.</description>
+			<icon>https://cdn.freebiesupply.com/logos/thumbs/2x/github-icon-1-logo.png</icon>
+		</item>
+		<item>
+			<title>Contribute in open source projects - Github</title>
+			<link>https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github</link>
+			<description>This documentation provides finding ways to contribute to open source on GitHub.</description>
+			<icon>https://cdn.freebiesupply.com/logos/thumbs/2x/github-icon-1-logo.png</icon>
+		</item>
+		<item>
+			<title>Git rebase - Github</title>
+			<link>https://docs.github.com/en/get-started/using-git/using-git-rebase-on-the-command-line</link>
+			<description>Using Git rebase on the command line.</description>
+			<icon>https://cdn.freebiesupply.com/logos/thumbs/2x/github-icon-1-logo.png</icon>
+		</item>
+		<item>
+			<title>Push commits - Github</title>	
+			<link>https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository</link>
+			<description>Use git push to push commits made on your local branch to a remote repository.</description>
+			<icon>https://cdn.freebiesupply.com/logos/thumbs/2x/github-icon-1-logo.png</icon>
 		</item>
 		<item>
 			<title>Attributes In CSS - Web Dev Simplified</title>
@@ -272,13 +338,13 @@
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useEffect React hook - Web Dev Simplified</title>
+			<title>React hook useEffect - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2020-04/use-effect/</link>
 			<description>An in depth look at every aspect of the useEffect React hook.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useState React hook - Web Dev Simplified</title>
+			<title>React hook useState - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2020-04/use-state/</link>
 			<description>An in depth look at every aspect of the useState React hook.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
@@ -314,7 +380,7 @@
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useReducer React hook - Web Dev Simplified</title>
+			<title>React hook useReducer - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2020-06/use-reducer/</link>
 			<description>An in depth look at every aspect of the the useReducer hook in React.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
@@ -326,7 +392,7 @@
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useLayoutEffect React hook - Web Dev Simplified</title>
+			<title>React hook useLayoutEffect - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2020-07/use-layout-effect/</link>
 			<description>An in depth look at every aspect of the useLayoutEffect React hook.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
@@ -413,6 +479,7 @@
 			<title>ES6 JavaScript Modules - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2021-11/es6-modules/</link>
 			<description>ES6 modules are one of the best features added to JavaScript since it makes writing clean code exponentially easier.</description>
+			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
 			<title>CSS Flexbox - Web Dev Simplified</title>
@@ -421,7 +488,7 @@
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useDebugValue React Hook - Web Dev Simplified</title>
+			<title>React hook useDebugValue - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2021-11/use-debug-value/</link>
 			<description>You have probably never used the useDebugValue hook, but this hook is incredible at helping you debug your custom hooks.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
@@ -475,19 +542,19 @@
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useTransition Hook - Web Dev Simplified</title>
+			<title>React hook useTransition - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2022-04/use-transition/</link>
 			<description>React 18 introduced many new hooks and in this article I will be talking about useTransition which is the most useful of those hooks.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useDeferredValue Hook - Web Dev Simplified</title>
+			<title>React hook useDeferredValue - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2022-05/use-deferred-value/</link>
 			<description>React 18 introduced many new hooks and in this article I will be talking about useDeferredValue.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
 		</item>
 		<item>
-			<title>useId Hook - Web Dev Simplified</title>
+			<title>React hook useId - Web Dev Simplified</title>
 			<link>https://blog.webdevsimplified.com/2022-06/use-id/</link>
 			<description>React 18 introduced many new hooks and in this article I will be talking about useId.</description>
 			<icon>https://courses.webdevsimplified.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiY2IxbHg1eHJ4YXNvMnlocGl3cjg3cnUyamlteCIsImRvbWFpbiI6ImNvdXJzZXMud2ViZGV2c2ltcGxpZmllZC5jb20ifQ.sih852orbsVSqbH_Ks85JUnpFSN_KbXaS39KKMM_WhM</icon>
